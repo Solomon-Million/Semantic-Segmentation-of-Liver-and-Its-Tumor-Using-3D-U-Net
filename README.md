@@ -1,5 +1,5 @@
 # Semantic-Segmentation-of-Liver-and-Its-Tumor-Using-3D-U-Net
-Semantic Segmentation of Liver and Its Tumor Using 3D U-Net
+
 Abstract—In this study, I explore an experimental modification
 of the U-Net model tailored for segmenting liver and its lesions in
 contrast-enhanced abdominal CT scans. This adaptation employs
