@@ -14,6 +14,7 @@ of the U-Net model illustrates its potential in medical image
 segmentation. However, it achieved moderate accuracy of 65.34%
 and Intersection over Union (IoU) of 34.85%, indicating areas
 for further improvement and optimization in future work.
+
 Index Terms—liver lesion segmentation, U-Net, Dice Loss,
 Focal Loss, class imbalance, high-resolution medical images, LiTS
 2017 challenge.
